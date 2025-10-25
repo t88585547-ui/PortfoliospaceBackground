@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import ProjectsCard from "../components/ProjectCard";
-import project from "../assets/try.png";
+// import project from "../assets/try.png";
 
 export default function Projects() {
   const projects = [
